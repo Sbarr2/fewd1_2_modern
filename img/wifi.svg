@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 345.14 331.73" style="enable-background:new 0 0 345.14 331.73;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CD3327;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<symbol  id="RSS" viewBox="-27.99 -27.99 55.97 55.98">
+	<path id="circle_00000079472407572064483990000007495011467608687529_" d="M-12.99-20.5c0-4.14-3.36-7.49-7.51-7.49
+		c-4.13,0-7.49,3.35-7.49,7.49c0,4.13,3.36,7.51,7.49,7.51C-16.34-12.99-12.99-16.37-12.99-20.5z"/>
+	<path d="M8.78-27.57h-9.87C-1.22-20.53-4-13.94-8.97-8.97C-13.94-3.99-20.5-1.2-27.5-1.07v9.83C-7.61,8.5,8.51-7.65,8.78-27.57
+		L8.78-27.57z"/>
+	<path d="M27.99-27.57h-9.85C17.87-2.48-2.45,17.89-27.48,18.16v9.83C2.98,27.72,27.72,2.94,27.99-27.57L27.99-27.57z"/>
+</symbol>
+<circle class="st0" cx="172.57" cy="165.86" r="145.84"/>
+<use xlink:href="#RSS"  width="55.97" height="55.98" x="-27.99" y="-27.99" transform="matrix(3.1997 0 0 -3.1997 194.7762 152.6907)" style="overflow:visible;"/>
+</svg>

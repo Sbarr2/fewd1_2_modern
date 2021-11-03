@@ -49,6 +49,20 @@ p { 		font-size:90%; margin: 0 0 .5rem 0;  }
 }
 
 /* media query 1: define styles that should only kick in if screen is above 561 pixels wide... */
+header {
+  background-image: url(../img/wood-texture.jpg);
+  background-size: contain;
+}
+
+.fa-phone {
+  font-size: 1rem;
+}
+
+.fa-envelope {
+  font-size: 1.25rem;
+}
+
+
 @media screen and (min-width:561px) {
 	html { font-size:105%; }
   .row { display:flex; }
@@ -58,7 +72,8 @@ p { 		font-size:90%; margin: 0 0 .5rem 0;  }
 	}
 	.triptych:last-child {
         margin:0 0 0 0;
-	}
+  }
+
 }
 
 @media screen and (min-width:761px) {
